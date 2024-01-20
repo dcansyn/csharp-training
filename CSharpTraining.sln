@@ -5,9 +5,11 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpTraining.C8", "CSharpTraining.C8\CSharpTraining.C8.csproj", "{C87BF31A-9CDA-4B2A-9210-774949651BD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTraining.C9", "CSharpTraining.C9\CSharpTraining.C9.csproj", "{6A07C963-BEE0-4F69-B067-A4A09037BC91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpTraining.C9", "CSharpTraining.C9\CSharpTraining.C9.csproj", "{6A07C963-BEE0-4F69-B067-A4A09037BC91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTraining.C10", "CSharpTraining.C10\CSharpTraining.C10.csproj", "{F13B927C-74ED-4826-A404-C3969DE981D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpTraining.C10", "CSharpTraining.C10\CSharpTraining.C10.csproj", "{F13B927C-74ED-4826-A404-C3969DE981D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTraining.C11", "CSharpTraining.C11\CSharpTraining.C11.csproj", "{61093DB5-8042-496C-9962-F30DFDE4341F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F13B927C-74ED-4826-A404-C3969DE981D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F13B927C-74ED-4826-A404-C3969DE981D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F13B927C-74ED-4826-A404-C3969DE981D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61093DB5-8042-496C-9962-F30DFDE4341F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61093DB5-8042-496C-9962-F30DFDE4341F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61093DB5-8042-496C-9962-F30DFDE4341F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61093DB5-8042-496C-9962-F30DFDE4341F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

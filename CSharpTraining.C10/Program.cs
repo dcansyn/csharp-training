@@ -1,5 +1,6 @@
 ﻿// https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10
-
+using System.Linq.Expressions;
+using System.Runtime.CompilerServices;
 
 #region global-using-directives
 /* https://docs.microsoft.com/en-us/dotnet/core/project-sdk/msbuild-props#using
@@ -14,9 +15,6 @@
 
 
 #region improvements-of-structure-types
-using System.Linq.Expressions;
-using System.Runtime.CompilerServices;
-
 var m1 = new Measurement();
 Console.WriteLine(m1);  // output: NaN (Undefined)
 
